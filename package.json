@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "lite-server": "^2.6.1",
+    "nit": "^0.0.5"
+  }
+}
